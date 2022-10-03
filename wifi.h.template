@@ -1,0 +1,4 @@
+// WiFi AP SSID
+#define WIFI_SSID ""
+// WiFi password
+#define WIFI_PASSWORD ""
