@@ -1,4 +1,4 @@
 // WiFi AP SSID
-#define WIFI_SSID ""
+#define WIFI_SSID "PTL-N"
 // WiFi password
 #define WIFI_PASSWORD ""
